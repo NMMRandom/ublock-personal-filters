@@ -185,3 +185,6 @@ gamedva.com##article > h2
 gamedva.com##article > center > h2
 gamedva.com###footer
 gamedva.com##h4:has-text(Rating & Comments)
+gamedva.com##article > .c
+gamedva.com##article > .download > span
+gamedva.com##article > .toggle
