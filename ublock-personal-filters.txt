@@ -188,3 +188,4 @@ gamedva.com##h4:has-text(Rating & Comments)
 gamedva.com##article > .c
 gamedva.com##article > .download > span
 gamedva.com##article > .toggle
+gamedva.com##.ad-slot
