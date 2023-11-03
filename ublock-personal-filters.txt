@@ -189,3 +189,11 @@ gamedva.com##article > .c
 gamedva.com##article > .download > span
 gamedva.com##article > .toggle
 gamedva.com##.ad-slot
+
+apkmody.io##p:not(:has(img))
+apkmody.io##div.main-entry-content.entry-content.entry-block > h2
+apkmody.io##article:has(section div div #comments)
+apkmody.io##footer
+apkmody.io##a[href="https://worker.happymod.cool/releases/Apkmody-latest.apk"]
+apkmody.io##.text-center:has-text(Use Apkmody App to get fast download)
+apkmody.io##.aside-download.entry-aside
