@@ -1,0 +1,187 @@
+! Block Reddit 'Top Broadcast Now' & 'Top livestream'
+reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
+
+! 2022-06-16 https://www.quora.com
+www.quora.com##.qu-zIndex--blocking_wall.qu-overflow--hidden.qu-justifyContent--center.qu-alignItems--center.q-flex
+
+! 2022-06-20 https://www.xatakawindows.com
+www.xatakawindows.com##.article-asset-normal.article-asset-video
+
+! 2022-08-09 https://simiperrohablara.com
+simiperrohablara.com##.essb_force_hide.essb_force_hide_name.essb_links_list
+
+! 2023-01-20 https://imgur.com
+imgur.com##.Gallery-Sidebar
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-EngagementBar
+
+! 2023-01-20 https://www.genbeta.com
+www.genbeta.com##.article-aside-content
+www.genbeta.com##.js-foot.foot
+www.genbeta.com##.section-newsletter
+
+! 2023-01-23 https://homehacks.co
+homehacks.co##.left-ads-container
+homehacks.co##.right-ads-container
+homehacks.co##.article-container.min-w-\[665px\].max-w-\[800px\] > .items-center.flex-col.flex.article-ad-vertical
+homehacks.co##div#double-placement-container:nth-of-type(5)
+homehacks.co##div#double-placement-container:nth-of-type(8)
+homehacks.co###desktop-slideshow-in-content-left-depth-0-container > div > .article-ad-caption
+homehacks.co###double-placement-container
+
+! 2023-01-25 https://www.pinterest.cl
+www.pinterest.cl##.dB7.C9i.un8.jzS > div.xuA > .Hsu.iyn.zI7 > .TB_.C9i.un8.hs0 > .TB_.C9i.un8.ujU.jzS > .Hsu.iyn.zI7.b8T.XiG.KS5.Jea > .TB_.U6-.un8.hs0.KS5 > div.xuA > .TB_.P29.un8.hs0.KS5
+www.pinterest.cl##.A6h.C9i.un8.jzS > div.xuA > .Hsu.iyn.zI7 > .TB_.C9i.un8.hs0 > .TB_.C9i.un8.ujU.jzS > .Hsu.iyn.zI7.b8T.XiG.KS5.Jea > .TB_.U6-.un8.hs0.KS5 > div.xuA > .TB_.P29.un8.hs0.KS5
+
+deeprootsathome.com
+
+! 2023-06-24 https://www.planetminecraft.com
+www.planetminecraft.com###reel-wrap > .vm-placement
+
+! 2023-06-26 https://www.epicbundle.com
+www.epicbundle.com##.ebng-partner-sidebar-1-pos-top.ebng-partner-sidebar-1.ebng-post-content-sidebar-top.ebng-post-content-sidebar
+www.epicbundle.com##.note
+www.epicbundle.com##.entry-meta
+www.epicbundle.com##.ebng-partner-sidebar-1-pos-bottom.ebng-partner-sidebar-1.ebng-post-content-sidebar-bottom.ebng-post-content-sidebar
+www.epicbundle.com###ebng-widget-general-5 > .ebng-widget-inner-static.ebng-widget-inner > p
+
+! 2023-07-14 https://gta.fandom.com
+gta.fandom.com##.notifications-placeholder
+gta.fandom.com###WikiaBar
+
+! 2023-08-16 https://www.roblox.com
+www.roblox.com###Skyscraper-Abp-Left > [src="https://www.roblox.com/user-sponsorship/2"]
+
+! 2023-09-27 https://www.nexusmods.com
+www.nexusmods.com##.gaf5c60240c
+www.nexusmods.com##.ya4d646520f
+www.nexusmods.com##.l68e0f32d47
+www.nexusmods.com##.gb395192057
+www.nexusmods.com##.container.premium-banner
+www.nexusmods.com##.jf2be092fd7
+www.nexusmods.com##.donation-form
+www.nexusmods.com###rj-vortex
+
+! 2023-09-28 https://www.3djuegos.com
+www.3djuegos.com##.section-post-closure
+www.3djuegos.com##.o-videofooter-section
+www.3djuegos.com##.js-foot.foot
+www.3djuegos.com##.js-foot-external.foot-external
+www.3djuegos.com##.m-evergreen-links.section-deeplinking-container
+www.3djuegos.com###stories_container
+www.3djuegos.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+www.3djuegos.com##.m-3djuegos-payday-3.o-siteheader-section__nav
+
+dailymotion.com^$script,3p,from=xataka.com
+dailymotion.com^$script,3p,from=vidaextra.com
+dailymotion.com^$script,3p,from=www.xatakandroid.com
+dailymotion.com^$script,3p,from=www.3djuegos.com
+dailymotion.com^$script,3p,from=www.vitonica.com
+dailymotion.com^$script,3p,from=www.xatakawindows.com
+
+! 2023-10-10 https://www.xatakandroid.com
+www.xatakandroid.com##.section-recent-aside
+www.xatakandroid.com##.js-foot-external.foot-external
+www.xatakandroid.com##.js-foot.foot
+www.xatakandroid.com###editorialRecommendedPosts
+www.xatakandroid.com##.social-share-group
+www.xatakandroid.com##.m-evergreen-links.section-deeplinking-container
+www.xatakandroid.com###stories_container
+www.xatakandroid.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+www.xatakandroid.com##.o-deeplinking-section.m-deeplinking-news.section-deeplinking-container
+www.xatakandroid.com##.desvio-container
+www.xatakandroid.com##.article-asset-normal.video-boost-container
+
+! 2023-10-10 https://www.xatakamovil.com
+www.xatakamovil.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+www.xatakamovil.com##.desvio-container
+www.xatakamovil.com##.js-foot-external.foot-external
+www.xatakamovil.com##.js-foot.foot
+www.xatakamovil.com##.m-evergreen-links.section-deeplinking-container
+
+! 2023-10-10 https://www.vitonica.com
+www.vitonica.com###stories_container
+www.vitonica.com##.home-video-stream-container
+www.vitonica.com##.section-recent-aside
+www.vitonica.com###editorialRecommendedPosts
+www.vitonica.com##.js-foot.foot
+www.vitonica.com##.js-foot-external.foot-external
+www.vitonica.com##.section-hero-container
+www.vitonica.com##.o-deeplinking-section.m-deeplinking-news.section-deeplinking-container
+www.vitonica.com##.article-asset-normal.video-boost-container
+
+! 2023-10-19 https://thumbnailsave.com
+thumbnailsave.com##h2
+thumbnailsave.com##.text-white.btn-dark
+thumbnailsave.com##.rounded-top.border-warning.border-right.border-left.border-top.login
+thumbnailsave.com##p:nth-of-type(1)
+thumbnailsave.com##p:nth-of-type(2)
+thumbnailsave.com##p:nth-of-type(3)
+thumbnailsave.com##.fb_iframe_widget.fb-like
+thumbnailsave.com###submit_box2
+thumbnailsave.com###howto > .text-center.row
+
+twitter.com##a[href^="/i/verified-choose"]:has(div div span:has-text(Premium))
+twitter.com##.css-1dbjc4n.r-g2wdr4.r-14wv3jr.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:has(div section div div div div div h2 div span:has-text(Trends for you))
+twitter.com##.css-1dbjc4n.r-g2wdr4.r-14wv3jr.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:has(div aside[aria-label="Who to follow"])
+twitter.com##.css-1dbjc4n.r-g2wdr4.r-14wv3jr.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x:has(aside[aria-label="Subscribe to Premium"])
+twitter.com##.css-1dbjc4n.r-1niwhzg.r-1kqtdi0.r-1867qdf.r-1phboty.r-1yadl64.r-1ifxtd0.r-1udh08x:has(nav[aria-label="Footer"])
+
+roblox.com##.comments-container
+
+! 2023-10-20 http://thumbnailsave.com
+thumbnailsave.com##.banner_message
+
+! 2023-10-22 https://userupload.net
+userupload.*##.aboutFile
+userupload.*##.footer
+
+! 2023-10-22 https://store.epicgames.com
+store.epicgames.com##.css-1mgolpb
+store.epicgames.com##.css-1xdp7yz
+store.epicgames.com##.css-1yxh1jf
+
+! 2023-10-31 https://www.vidaextra.com
+www.vidaextra.com##div.article-asset-center.article-asset-large.article-asset-video > .asset-content
+www.vidaextra.com##.desvio-container
+www.vidaextra.com##.section-post-closure
+www.vidaextra.com##.js-foot-external.foot-external
+www.vidaextra.com##.js-foot.foot
+www.vidaextra.com##.m-evergreen-links.section-deeplinking-container
+www.vidaextra.com###stories_container
+www.vidaextra.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+
+! 2023-11-01 https://www.xataka.com
+www.xataka.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+www.xataka.com##.article-asset-normal.article-asset-video > .asset-content
+www.xataka.com##.m-evergreen-links.section-deeplinking-container
+www.xataka.com##.js-foot-external.foot-external
+www.xataka.com##.section-post-closure
+www.xataka.com##.desvio
+www.xataka.com##.article-metadata-container
+www.xataka.com##.post-comments-shortcut
+www.xataka.com##.o-deeplinking-section.m-deeplinking-news.section-deeplinking-container
+www.xataka.com##.m-xataka-magnet.section-cross
+www.xataka.com##.m-xataka-seleccion.section-cross
+www.xataka.com##.section-recent-aside
+www.xataka.com##.home-video-stream-container
+www.xataka.com##.m-xataka-movilidad.section-cross
+www.xataka.com###editorialRecommendedPosts
+www.xataka.com##.m-xataka-basics.section-cross
+www.xataka.com##.section-hero-container
+www.xataka.com##.js-nano-container.masthead-site-nav-container
+www.xataka.com##.article-aside-content
+www.xataka.com##.m-in-normal.js-article-social-share.article-social-share
+www.xataka.com##.cookies-overlay
+www.xataka.com##.js-foot.foot
+
+! 2023-11-02 https://www.vectorstock.com
+www.vectorstock.com##.share
+
+gamedva.com##p:not(:has(img))
+gamedva.com###toc_container
+gamedva.com##article > h3
+gamedva.com##article > h2
+gamedva.com##article > center > h2
+gamedva.com###footer
+gamedva.com##h4:has-text(Rating & Comments)
