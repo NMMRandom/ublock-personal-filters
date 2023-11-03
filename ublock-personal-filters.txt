@@ -197,3 +197,4 @@ apkmody.io##footer
 apkmody.io##a[href="https://worker.happymod.cool/releases/Apkmody-latest.apk"]
 apkmody.io##.text-center:has-text(Use Apkmody App to get fast download)
 apkmody.io##.aside-download.entry-aside
+apkmody.io###publisher-apps
