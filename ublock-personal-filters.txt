@@ -199,3 +199,34 @@ apkmody.io##.text-center:has-text(Use Apkmody App to get fast download)
 apkmody.io##.aside-download.entry-aside
 apkmody.io###publisher-apps
 apkmody.io##.donate-content
+
+! 2023-11-05 https://warframe.fandom.com
+warframe.fandom.com##.page__right-rail
+warframe.fandom.com###WikiaBar
+warframe.fandom.com###mixed-content-footer
+warframe.fandom.com##.global-footer
+warframe.fandom.com##.page-footer
+warframe.fandom.com##.autoResized.autoResize.embedvideo
+warframe.fandom.com##.codex-box
+warframe.fandom.com##.cquote
+warframe.fandom.com##.mw-made-collapsible.mw-collapsible.mbox__content__text__comment
+warframe.fandom.com##.notifications-placeholder
+
+! 2023-11-06 https://www.craiyon.com
+www.craiyon.com##.sm\:p-4.p-2.to-\[\#12151E\].from-\[\#222839\].bg-gradient-to-br.border-medium-blue.border-\[1px\].rounded-lg.items-center.flex-col.w-full.flex
+www.craiyon.com##.sm\:space-y-20.sm\:mt-40.text-grey.font-rubik.pb-36.pt-20.px-4.to-\[\#12151E\].from-\[\#222839\].bg-gradient-to-br.space-y-16.justify-center.items-center.flex-col.w-full.flex.mt-28
+
+! 2023-11-06 https://www.planetminecraft.com
+www.planetminecraft.com###footer
+www.planetminecraft.com###prefooter
+
+! 2023-11-07 https://coolors.co
+coolors.co###agIAk9vp0XD
+coolors.co##.aFAXuNnmvJO.aRHR6mNjE2Q.aeQIvhT96QV
+coolors.co##.aTGehowePVs.aZ0joVK0d1d.abDf5w4afVe.aCaCmR68p3l
+coolors.co##.header_go-pro-btn.link--primary.link
+
+! 2023-11-07 https://forum.mobilism.me
+forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable
+forum.mobilism.me##.widget-collapsible.well-qr.well
+forum.mobilism.me##footer
