@@ -18,6 +18,14 @@ dailymotion.com^$script,3p,from=www.vitonica.com
 dailymotion.com^$script,3p,from=www.xatakandroid.com
 dailymotion.com^$script,3p,from=www.xatakawindows.com
 dailymotion.com^$script,3p,from=xataka.com
+discord.com##.messageListItem_d5deea:has-text("@Chaewon [LE SSERAFIM]")
+discord.com##.messageListItem_d5deea:has-text("@Eunseo [WJSN]")
+discord.com##.messageListItem_d5deea:has-text("@Mimi [OMG]")
+discord.com##.messageListItem_d5deea:has-text("@Momo [TWICE]")
+discord.com##.messageListItem_d5deea:has-text("@Nayeon [TWICE]")
+discord.com##.messageListItem_d5deea:has-text("@Sakura [LE SSERAFIM]")
+discord.com##.messageListItem_d5deea:has-text("@TWICE - Momo")
+discord.com##.messageListItem_d5deea:has-text("@Yunjin [LE SSERAFIM]")
 fitgirl-repacks.site##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-28715
 fitgirl-repacks.site##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-36778
 fitgirl-repacks.site##div#jBnskDj9
@@ -52,6 +60,7 @@ imgur.com##.BottomRecirc
 imgur.com##.Footer-wrapper
 imgur.com##.Gallery-EngagementBar
 imgur.com##.Gallery-Sidebar
+imgur.com##.Navigation-next.Navigation
 madiashare.com##.bg-white.jumbotron > p
 pivigames.blog###disqus_thread
 pivigames.blog###gp-blog-posts-widget-3 > .gp-no-ranking.gp-blog-list.gp-vc-element.gp-blog-wrapper
@@ -59,13 +68,15 @@ pivigames.blog###gp-footer
 pivigames.blog##img.snowfall-flakes
 reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
 roblox.com##.comments-container
-store.epicgames.com##.css-1mgolpb
-store.epicgames.com##.css-1xdp7yz
+store.epicgames.com##.css-1f3cx04
+store.epicgames.com##.css-1xaekgw
 store.epicgames.com##.css-1yxh1jf
-store.epicgames.com##.css-2g3uf9
-store.steampowered.com##.broadcast_embed_top_ctn_trgt
-store.steampowered.com##.esi-customizer.esi-shown.franchise_notice
-store.steampowered.com##.saleEventBannerLink
+store.epicgames.com##.css-2scrzp
+store.epicgames.com##.css-izcrl4
+store.epicgames.com##.css-kjcd1j
+store.epicgames.com##[href="/en-US/news/epic-games-store-available-now-on-mobile"]
+store.epicgames.com##[href="https://store.epicgames.com/mobile"]
+store.epicgames.com##div.css-usl2mg > .css-3r3brs
 thumbnailsave.com###howto > .text-center.row
 thumbnailsave.com###submit_box2
 thumbnailsave.com##.banner_message
@@ -116,6 +127,13 @@ www.mediafire.com##.footer
 www.mediafire.com##.google_ad_unit
 www.mediafire.com##.nopop.dl-promo-cont
 www.mediafire.com##.sidebar
+www.mercadolibre.cl##.AD_ADN_area.adn
+www.mercadolibre.cl##.ad_adn_video_banner.adn
+www.mercadolibre.cl##.exhibitor__picture
+www.mercadolibre.cl##.loyalty-buylevel6
+www.mercadolibre.cl##.partners-subscriptions
+www.mercadolibre.cl##video
+www.netflix.com##.billboard-row
 www.nexusmods.com###rj-vortex
 www.nexusmods.com##.container.premium-banner
 www.nexusmods.com##.donation-form
@@ -204,4 +222,5 @@ www.xatakandroid.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-ne
 www.xatakandroid.com##.section-recent-aside
 www.xatakandroid.com##.social-share-group
 www.xatakawindows.com##.article-asset-normal.article-asset-video
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-shelf-renderer.style-scope
 youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^Breaking news$/i))
