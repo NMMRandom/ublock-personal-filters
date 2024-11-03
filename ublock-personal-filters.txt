@@ -12,12 +12,7 @@ coolors.co###agIAk9vp0XD
 coolors.co##.aFAXuNnmvJO.aRHR6mNjE2Q.aeQIvhT96QV
 coolors.co##.aTGehowePVs.aZ0joVK0d1d.abDf5w4afVe.aCaCmR68p3l
 coolors.co##.header_go-pro-btn.link--primary.link
-dailymotion.com^$script,3p,from=vidaextra.com
-dailymotion.com^$script,3p,from=www.3djuegos.com
-dailymotion.com^$script,3p,from=www.vitonica.com
-dailymotion.com^$script,3p,from=www.xatakandroid.com
-dailymotion.com^$script,3p,from=www.xatakawindows.com
-dailymotion.com^$script,3p,from=xataka.com
+dailymotion.com^$script,3p,from=vidaextra.com|www.3djuegos.com|www.vitonica.com|www.xatakandroid.com|www.xatakawindows.com|xataka.com
 discord.com##.messageListItem_d5deea:has-text("@Chaewon [LE SSERAFIM]")
 discord.com##.messageListItem_d5deea:has-text("@Eunseo [WJSN]")
 discord.com##.messageListItem_d5deea:has-text("@Mimi [OMG]")
@@ -77,6 +72,12 @@ store.epicgames.com##.css-kjcd1j
 store.epicgames.com##[href="/en-US/news/epic-games-store-available-now-on-mobile"]
 store.epicgames.com##[href="https://store.epicgames.com/mobile"]
 store.epicgames.com##div.css-usl2mg > .css-3r3brs
+store.epicgames.com##.css-1qxe70i
+store.epicgames.com##.css-rd3dhz
+store.epicgames.com##.css-4lnoqc
+store.epicgames.com##div.css-s97i32:has-text("Refundable")
+store.epicgames.com##div.css-s97i32:has-text("Epic Rewards")
+store.epicgames.com##[data-testid*="edsOnCLickLink"]
 thumbnailsave.com###howto > .text-center.row
 thumbnailsave.com###submit_box2
 thumbnailsave.com##.banner_message
@@ -224,3 +225,59 @@ www.xatakandroid.com##.social-share-group
 www.xatakawindows.com##.article-asset-normal.article-asset-video
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-shelf-renderer.style-scope
 youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^Breaking news$/i))
+
+! 26 oct 2024 https://www.reddit.com
+www.reddit.com##:matches-path(/media).flex-row.flex.bg-neutral-background.items-center.justify-between.w-full.fixed.bottom-0.px-md.m\:px-lg.pb-\[env\(safe-area-inset-bottom\)\].h-3xl.box-border.border-neutral-border-weak.border-solid.border-r-0.border-l-0.border-b-0.border-t-sm
+www.reddit.com##:matches-path(/media).theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
+
+! 31 oct 2024 https://rbxtax.com
+rbxtax.com##.subtile-container
+rbxtax.com##footer
+rbxtax.com##.devex-info
+
+! 3 nov 2024 https://thecubexguide.com
+thecubexguide.com###about
+thecubexguide.com###aboutdis
+thecubexguide.com##.premium
+thecubexguide.com##.aboutFile
+thecubexguide.com##.report
+thecubexguide.com##.footer
+thecubexguide.com##.btn-block.btn-success.btn
+thecubexguide.com##.mb-4.download-btn > span
+thecubexguide.com##center > p
+thecubexguide.com##.navbar
+thecubexguide.com##.done
+
+devuploads.com###about
+devuploads.com###aboutdis
+devuploads.com##.premium
+devuploads.com##.aboutFile
+devuploads.com##.report
+devuploads.com##.footer
+devuploads.com##.btn-block.btn-success.btn
+devuploads.com##.mb-4.download-btn > span
+devuploads.com##center > p
+devuploads.com##.navbar
+devuploads.com##.done
+
+jytechs.in###about
+jytechs.in###aboutdis
+jytechs.in##.premium
+jytechs.in##.aboutFile
+jytechs.in##.report
+jytechs.in##.footer
+jytechs.in##.btn-block.btn-success.btn
+jytechs.in##.mb-4.download-btn > span
+jytechs.in##center > p
+jytechs.in##.navbar
+jytechs.in##.done
+
+! 3 nov 2024 https://flash.getpczone.com
+flash.getpczone.com##footer
+flash.getpczone.com###footer2
+flash.getpczone.com##.menufooter
+flash.getpczone.com###news_last
+flash.getpczone.com##header
+flash.getpczone.com##.txt
+flash.getpczone.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
+flash.getpczone.com##.btn-lg.btn-info.btn
