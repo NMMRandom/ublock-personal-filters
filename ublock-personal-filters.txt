@@ -1,4 +1,5 @@
 @@||widget.gleamjs.io^$script,third-party,domain=~gleam.io
+
 apkmody.io###publisher-apps
 apkmody.io##.aside-download.entry-aside
 apkmody.io##.donate-content
@@ -8,25 +9,47 @@ apkmody.io##article:has(section div div #comments)
 apkmody.io##div.main-entry-content.entry-content.entry-block > h2
 apkmody.io##footer
 apkmody.io##p:not(:has(img))
+
+character.ai##.hover\:bg-primary-foreground.hover.py-3.bg-background.gap-1.justify-center.items-center.w-full.flex.bold.data-\[hover\=true\]\:opacity-hover.text-primary.border-1.border-border-outline.motion-reduce\:transition-none.transition-transform-colors-opacity.data-\[pressed\=true\]\:scale-\[0\.97\].\[\&\>svg\]\:max-w-\[theme\(spacing\.unit-8\)\].rounded-md.text-md.h-unit-10.min-w-unit-20.px-unit-4.data-\[focus-visible\=true\]\:outline-offset-2.data-\[focus-visible\=true\]\:outline-focus.data-\[focus-visible\=true\]\:outline-2.data-\[focus-visible\=true\]\:z-10.outline-none.tap-highlight-transparent.overflow-hidden.subpixel-antialiased.font-normal.whitespace-nowrap.select-none.appearance-none.box-border.relative.group.z-0
+character.ai##.pb-3.pt-5.text-muted-foreground.text-sm.w-full.items-center.flex-wrap.justify-center.flex
+character.ai##div.focus\:text-accent-foreground.focus\:bg-accent.data-\[disabled\]\:opacity-50.data-\[disabled\]\:pointer-events-none.outline-none.text-sm.items-center.select-none.rounded-spacing-s.cursor-pointer.flex.relative:nth-of-type(3)
+
 coolors.co###agIAk9vp0XD
 coolors.co##.aFAXuNnmvJO.aRHR6mNjE2Q.aeQIvhT96QV
 coolors.co##.aTGehowePVs.aZ0joVK0d1d.abDf5w4afVe.aCaCmR68p3l
 coolors.co##.header_go-pro-btn.link--primary.link
+
 dailymotion.com^$script,3p,from=vidaextra.com|www.3djuegos.com|www.vitonica.com|www.xatakandroid.com|www.xatakawindows.com|xataka.com
-discord.com##.messageListItem_d5deea:has-text("@Chaewon [LE SSERAFIM]")
-discord.com##.messageListItem_d5deea:has-text("@Eunseo [WJSN]")
-discord.com##.messageListItem_d5deea:has-text("@Mimi [OMG]")
-discord.com##.messageListItem_d5deea:has-text("@Momo [TWICE]")
-discord.com##.messageListItem_d5deea:has-text("@Nayeon [TWICE]")
-discord.com##.messageListItem_d5deea:has-text("@Sakura [LE SSERAFIM]")
-discord.com##.messageListItem_d5deea:has-text("@TWICE - Momo")
-discord.com##.messageListItem_d5deea:has-text("@Yunjin [LE SSERAFIM]")
+
+devuploads.com###about
+devuploads.com###aboutdis
+devuploads.com##.aboutFile
+devuploads.com##.btn-block.btn-success.btn
+devuploads.com##.done
+devuploads.com##.footer
+devuploads.com##.mb-4.download-btn > span
+devuploads.com##.navbar
+devuploads.com##.premium
+devuploads.com##.report
+devuploads.com##center > p
+
 fitgirl-repacks.site##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-28715
 fitgirl-repacks.site##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-36778
 fitgirl-repacks.site##div#jBnskDj9
+
+flash.getpczone.com###footer2
+flash.getpczone.com###news_last
+flash.getpczone.com##.btn-lg.btn-info.btn
+flash.getpczone.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
+flash.getpczone.com##.menufooter
+flash.getpczone.com##.txt
+flash.getpczone.com##footer
+flash.getpczone.com##header
+
 forum.mobilism.me##.footable-loaded.default.announcement.table-hover.table-primary.table-white.table.footable
 forum.mobilism.me##.widget-collapsible.well-qr.well
 forum.mobilism.me##footer
+
 gamedva.com###footer
 gamedva.com###toc_container
 gamedva.com##.ad-slot
@@ -38,9 +61,12 @@ gamedva.com##article > h2
 gamedva.com##article > h3
 gamedva.com##h4:has-text(Rating & Comments)
 gamedva.com##p:not(:has(img))
+
 gamejolt.com##div._game-grid-ad
+
 gta.fandom.com###WikiaBar
 gta.fandom.com##.notifications-placeholder
+
 homehacks.co###desktop-slideshow-in-content-left-depth-0-container > div > .article-ad-caption
 homehacks.co###double-placement-container
 homehacks.co##.article-container.min-w-\[665px\].max-w-\[800px\] > .items-center.flex-col.flex.article-ad-vertical
@@ -48,36 +74,86 @@ homehacks.co##.left-ads-container
 homehacks.co##.right-ads-container
 homehacks.co##div#double-placement-container:nth-of-type(5)
 homehacks.co##div#double-placement-container:nth-of-type(8)
+
 igg-games.com###post-488676 > .tls1
 igg-games.com##[href="https://igg-games.com/nl2"]
 igg-games.com##div.uk-margin-medium-top > .tls1
+
+imgur.com##.arcade.Button.NavbarArcadeButton
 imgur.com##.BottomRecirc
 imgur.com##.Footer-wrapper
 imgur.com##.Gallery-EngagementBar
 imgur.com##.Gallery-Sidebar
+imgur.com##.meme.upload.Button.MakeMeme
 imgur.com##.Navigation-next.Navigation
+
+jytechs.in###about
+jytechs.in###aboutdis
+jytechs.in##.aboutFile
+jytechs.in##.btn-block.btn-success.btn
+jytechs.in##.done
+jytechs.in##.footer
+jytechs.in##.mb-4.download-btn > span
+jytechs.in##.navbar
+jytechs.in##.premium
+jytechs.in##.report
+jytechs.in##center > p
+
 madiashare.com##.bg-white.jumbotron > p
+
 pivigames.blog###disqus_thread
 pivigames.blog###gp-blog-posts-widget-3 > .gp-no-ranking.gp-blog-list.gp-vc-element.gp-blog-wrapper
 pivigames.blog###gp-footer
 pivigames.blog##img.snowfall-flakes
+
+rbxtax.com##.devex-info
+rbxtax.com##.subtile-container
+rbxtax.com##footer
+
 reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
+
 roblox.com##.comments-container
+
+steamcommunity.com##.header.sih-sponsor-panel.sih-global
+steamcommunity.com##a.main_SteamPageHeaderTopLink_2mGrI:nth-of-type(5)
+
 store.epicgames.com##.css-1f3cx04
+store.epicgames.com##.css-1qxe70i
 store.epicgames.com##.css-1xaekgw
 store.epicgames.com##.css-1yxh1jf
 store.epicgames.com##.css-2scrzp
+store.epicgames.com##.css-4lnoqc
 store.epicgames.com##.css-izcrl4
 store.epicgames.com##.css-kjcd1j
+store.epicgames.com##.css-rd3dhz
+store.epicgames.com##[data-testid*="edsOnCLickLink"]
 store.epicgames.com##[href="/en-US/news/epic-games-store-available-now-on-mobile"]
 store.epicgames.com##[href="https://store.epicgames.com/mobile"]
-store.epicgames.com##div.css-usl2mg > .css-3r3brs
-store.epicgames.com##.css-1qxe70i
-store.epicgames.com##.css-rd3dhz
-store.epicgames.com##.css-4lnoqc
-store.epicgames.com##div.css-s97i32:has-text("Refundable")
 store.epicgames.com##div.css-s97i32:has-text("Epic Rewards")
-store.epicgames.com##[data-testid*="edsOnCLickLink"]
+store.epicgames.com##div.css-s97i32:has-text("Refundable")
+store.epicgames.com##div.css-usl2mg > .css-3r3brs
+
+store.steampowered.com###sih_game_banner_1_1
+store.steampowered.com###sih_game_banner_1_2
+store.steampowered.com###sih_game_banner_1_3
+store.steampowered.com###sih_game_banner_1_4
+store.steampowered.com###sih_game_banner_1_5
+store.steampowered.com###sih_game_banner_1_6
+store.steampowered.com##.header.sih-sponsor-panel.sih-global
+store.steampowered.com##.saleEventBannerLink
+store.steampowered.com##.sih-header-notifications__indicator
+
+thecubexguide.com###about
+thecubexguide.com###aboutdis
+thecubexguide.com##.aboutFile
+thecubexguide.com##.btn-block.btn-success.btn
+thecubexguide.com##.done
+thecubexguide.com##.footer
+thecubexguide.com##.mb-4.download-btn > span
+thecubexguide.com##.navbar
+thecubexguide.com##.premium
+thecubexguide.com##.report
+thecubexguide.com##center > p
 thumbnailsave.com###howto > .text-center.row
 thumbnailsave.com###submit_box2
 thumbnailsave.com##.banner_message
@@ -88,11 +164,14 @@ thumbnailsave.com##h2
 thumbnailsave.com##p:nth-of-type(1)
 thumbnailsave.com##p:nth-of-type(2)
 thumbnailsave.com##p:nth-of-type(3)
+
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label="who to follow" i]
 twitter.com##a[href^="/i/verified-choose"]:has(div div span:has-text(Premium))
+
 userupload.*##.aboutFile
 userupload.*##.footer
+
 warframe.fandom.com###mixed-content-footer
 warframe.fandom.com###WikiaBar
 warframe.fandom.com##.autoResized.autoResize.embedvideo
@@ -103,6 +182,7 @@ warframe.fandom.com##.mw-made-collapsible.mw-collapsible.mbox__content__text__co
 warframe.fandom.com##.notifications-placeholder
 warframe.fandom.com##.page__right-rail
 warframe.fandom.com##.page-footer
+
 www.3djuegos.com###stories_container
 www.3djuegos.com##.js-foot.foot
 www.3djuegos.com##.js-foot-external.foot-external
@@ -111,16 +191,28 @@ www.3djuegos.com##.m-evergreen-links.section-deeplinking-container
 www.3djuegos.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
 www.3djuegos.com##.o-videofooter-section
 www.3djuegos.com##.section-post-closure
+
+www.bing.com##.b_footer
+www.bing.com##.feedback-binded.cbtn
+
 www.craiyon.com##.sm\:p-4.p-2.to-\[\#12151E\].from-\[\#222839\].bg-gradient-to-br.border-medium-blue.border-\[1px\].rounded-lg.items-center.flex-col.w-full.flex
 www.craiyon.com##.sm\:space-y-20.sm\:mt-40.text-grey.font-rubik.pb-36.pt-20.px-4.to-\[\#12151E\].from-\[\#222839\].bg-gradient-to-br.space-y-16.justify-center.items-center.flex-col.w-full.flex.mt-28
+
 www.epicbundle.com###ebng-widget-general-5 > .ebng-widget-inner-static.ebng-widget-inner > p
 www.epicbundle.com##.ebng-partner-sidebar-1-pos-bottom.ebng-partner-sidebar-1.ebng-post-content-sidebar-bottom.ebng-post-content-sidebar
 www.epicbundle.com##.ebng-partner-sidebar-1-pos-top.ebng-partner-sidebar-1.ebng-post-content-sidebar-top.ebng-post-content-sidebar
 www.epicbundle.com##.entry-meta
 www.epicbundle.com##.note
+
 www.genbeta.com##.article-aside-content
 www.genbeta.com##.js-foot.foot
 www.genbeta.com##.section-newsletter
+
+www.google.com##div[jscontroller="xdV1C"]:has(.Lu57id)
+www.google.com##div[role="listitem"]:has(a.nPDzT.T3FoJb):has-text("Libros")
+www.google.com##div[role="listitem"]:has(a.nPDzT.T3FoJb):has-text("Shopping")
+www.google.com##div[role="listitem"]:has(a.nPDzT.T3FoJb):has-text("Videos cortos")
+
 www.mediafire.com##.description
 www.mediafire.com##.DLExtraInfo-wrap
 www.mediafire.com##.ezoic_ad_unit
@@ -128,13 +220,20 @@ www.mediafire.com##.footer
 www.mediafire.com##.google_ad_unit
 www.mediafire.com##.nopop.dl-promo-cont
 www.mediafire.com##.sidebar
+
 www.mercadolibre.cl##.AD_ADN_area.adn
 www.mercadolibre.cl##.ad_adn_video_banner.adn
+www.mercadolibre.cl##.collections > .row.container > .andes-carousel-snapped__container--arrows-visible.andes-carousel-snapped__container--strict-boundaries.andes-carousel-snapped__container--with-controls.andes-carousel-snapped__container--content.andes-carousel-snapped__container
 www.mercadolibre.cl##.exhibitor__picture
+www.mercadolibre.cl##.home > div > .ui-recommendations-snapped-section
+www.mercadolibre.cl##.home > div > div > .ui-recommendations-snapped-section
 www.mercadolibre.cl##.loyalty-buylevel6
 www.mercadolibre.cl##.partners-subscriptions
+www.mercadolibre.cl##.site-shopping-info
 www.mercadolibre.cl##video
+
 www.netflix.com##.billboard-row
+
 www.nexusmods.com###rj-vortex
 www.nexusmods.com##.container.premium-banner
 www.nexusmods.com##.donation-form
@@ -143,30 +242,43 @@ www.nexusmods.com##.gb395192057
 www.nexusmods.com##.jf2be092fd7
 www.nexusmods.com##.l68e0f32d47
 www.nexusmods.com##.ya4d646520f
+
 www.pinterest.cl##.A6h.C9i.un8.jzS > div.xuA > .Hsu.iyn.zI7 > .TB_.C9i.un8.hs0 > .TB_.C9i.un8.ujU.jzS > .Hsu.iyn.zI7.b8T.XiG.KS5.Jea > .TB_.U6-.un8.hs0.KS5 > div.xuA > .TB_.P29.un8.hs0.KS5
 www.pinterest.cl##.dB7.C9i.un8.jzS > div.xuA > .Hsu.iyn.zI7 > .TB_.C9i.un8.hs0 > .TB_.C9i.un8.ujU.jzS > .Hsu.iyn.zI7.b8T.XiG.KS5.Jea > .TB_.U6-.un8.hs0.KS5 > div.xuA > .TB_.P29.un8.hs0.KS5
+
 www.planetminecraft.com###footer
 www.planetminecraft.com###prefooter
 www.planetminecraft.com###reel-wrap > .vm-placement
 www.planetminecraft.com##.card-content > .notice_box
 www.planetminecraft.com##.noBG.pad.r-card.resource
 www.planetminecraft.com##.r-data.site-actions
+
 www.quora.com##.qu-zIndex--blocking_wall.qu-overflow--hidden.qu-justifyContent--center.qu-alignItems--center.q-flex
+
 www.reddit.com###advertise-button
 www.reddit.com##.w-full.masthead
+www.reddit.com##:matches-path(/media).flex-row.flex.bg-neutral-background.items-center.justify-between.w-full.fixed.bottom-0.px-md.m\:px-lg.pb-\[env\(safe-area-inset-bottom\)\].h-3xl.box-border.border-neutral-border-weak.border-solid.border-r-0.border-l-0.border-b-0.border-t-sm
+www.reddit.com##:matches-path(/media).theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
 www.reddit.com##div.visible:has(a[href$="redditinc.com"])
 www.reddit.com##nav[aria-label="Reddit resources"]
 www.reddit.com##reddit-recent-pages
+
 www.roblox.com###Skyscraper-Abp-Left > [src="https://www.roblox.com/user-sponsorship/2"]
 www.roblox.com##.recommendations-container.sponsored-layer.container-list
+
 www.rockmods.net###ignielAdBlock
+
 www.shutterstock.com##.mui-1qwszde-root-container
 www.shutterstock.com##.mui-3efggw-root
 www.shutterstock.com##.mui-fo7868-root
 www.shutterstock.com##.mui-pn0thd-root.MuiContainer-disableGutters.MuiContainer-maxWidthLg.MuiContainer-root
 www.shutterstock.com##.mui-tmeufa-assetDescription.MuiContainer-disableGutters.MuiContainer-maxWidthLg.MuiContainer-root
 www.shutterstock.com##div.mui-4qxcmj.MuiContainer-disableGutters.MuiContainer-maxWidthLg.MuiContainer-root:nth-of-type(3)
+
+www.tiktok.com##.css-oe45gz-notice
+
 www.vectorstock.com##.share
+
 www.vidaextra.com###stories_container
 www.vidaextra.com##.desvio-container
 www.vidaextra.com##.js-foot.foot
@@ -175,6 +287,7 @@ www.vidaextra.com##.m-evergreen-links.section-deeplinking-container
 www.vidaextra.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
 www.vidaextra.com##.section-post-closure
 www.vidaextra.com##div.article-asset-center.article-asset-large.article-asset-video > .asset-content
+
 www.vitonica.com###editorialRecommendedPosts
 www.vitonica.com###stories_container
 www.vitonica.com##.article-asset-normal.video-boost-container
@@ -184,6 +297,7 @@ www.vitonica.com##.js-foot-external.foot-external
 www.vitonica.com##.o-deeplinking-section.m-deeplinking-news.section-deeplinking-container
 www.vitonica.com##.section-hero-container
 www.vitonica.com##.section-recent-aside
+
 www.xataka.com###editorialRecommendedPosts
 www.xataka.com##.article-aside-content
 www.xataka.com##.article-asset-normal.article-asset-video > .asset-content
@@ -206,11 +320,13 @@ www.xataka.com##.post-comments-shortcut
 www.xataka.com##.section-hero-container
 www.xataka.com##.section-post-closure
 www.xataka.com##.section-recent-aside
+
 www.xatakamovil.com##.desvio-container
 www.xatakamovil.com##.js-foot.foot
 www.xatakamovil.com##.js-foot-external.foot-external
 www.xatakamovil.com##.m-evergreen-links.section-deeplinking-container
 www.xatakamovil.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-news.section-deeplinking-container
+
 www.xatakandroid.com###editorialRecommendedPosts
 www.xatakandroid.com###stories_container
 www.xatakandroid.com##.article-asset-normal.video-boost-container
@@ -223,61 +339,23 @@ www.xatakandroid.com##.o-deeplinking-section.m-deeplinking-post.m-deeplinking-ne
 www.xatakandroid.com##.section-recent-aside
 www.xatakandroid.com##.social-share-group
 www.xatakawindows.com##.article-asset-normal.article-asset-video
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-shelf-renderer.style-scope
+
+youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-shelf-renderer.style-scope
 youtube.com##ytd-rich-section-renderer:has(#title:has-text(/^Breaking news$/i))
 
-! 26 oct 2024 https://www.reddit.com
-www.reddit.com##:matches-path(/media).flex-row.flex.bg-neutral-background.items-center.justify-between.w-full.fixed.bottom-0.px-md.m\:px-lg.pb-\[env\(safe-area-inset-bottom\)\].h-3xl.box-border.border-neutral-border-weak.border-solid.border-r-0.border-l-0.border-b-0.border-t-sm
-www.reddit.com##:matches-path(/media).theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
+! 21 may 2025 https://www.youtube.com
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:has-text("Report")
+www.youtube.com##ytd-menu-service-item-download-renderer.ytd-menu-popup-renderer.style-scope
+www.youtube.com##.iron-selected.ytd-menu-popup-renderer.style-scope
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:has-text("Not interested")
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:has-text("Don't recommend")
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:has-text("Not")
 
-! 31 oct 2024 https://rbxtax.com
-rbxtax.com##.subtile-container
-rbxtax.com##footer
-rbxtax.com##.devex-info
+! 22 may 2025 https://www.instagram.com
+www.instagram.com##button.x5n08af.x4gyw5p.x52vrxo.xh8yej3.xxymvpz.x87ps6o.x2b8uid.xurb0ha.xjkvuk6.x1sxyh0.x1iorvi4.x1wxaq2x.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x1evy7pa.xvs91rp.x1ypdohk.x178xt8z.x13fuv20.x1yvgwvq.xm0m39n.xcfux6l.x1qhh985.xjbqb8w:has-text("")
 
-! 3 nov 2024 https://thecubexguide.com
-thecubexguide.com###about
-thecubexguide.com###aboutdis
-thecubexguide.com##.premium
-thecubexguide.com##.aboutFile
-thecubexguide.com##.report
-thecubexguide.com##.footer
-thecubexguide.com##.btn-block.btn-success.btn
-thecubexguide.com##.mb-4.download-btn > span
-thecubexguide.com##center > p
-thecubexguide.com##.navbar
-thecubexguide.com##.done
+! 23 may 2025 https://modsfire.com
+modsfire.com##.footer
+modsfire.com##.inf-down
+modsfire.com##.navbar-expand-md.navbar
 
-devuploads.com###about
-devuploads.com###aboutdis
-devuploads.com##.premium
-devuploads.com##.aboutFile
-devuploads.com##.report
-devuploads.com##.footer
-devuploads.com##.btn-block.btn-success.btn
-devuploads.com##.mb-4.download-btn > span
-devuploads.com##center > p
-devuploads.com##.navbar
-devuploads.com##.done
-
-jytechs.in###about
-jytechs.in###aboutdis
-jytechs.in##.premium
-jytechs.in##.aboutFile
-jytechs.in##.report
-jytechs.in##.footer
-jytechs.in##.btn-block.btn-success.btn
-jytechs.in##.mb-4.download-btn > span
-jytechs.in##center > p
-jytechs.in##.navbar
-jytechs.in##.done
-
-! 3 nov 2024 https://flash.getpczone.com
-flash.getpczone.com##footer
-flash.getpczone.com###footer2
-flash.getpczone.com##.menufooter
-flash.getpczone.com###news_last
-flash.getpczone.com##header
-flash.getpczone.com##.txt
-flash.getpczone.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
-flash.getpczone.com##.btn-lg.btn-info.btn
